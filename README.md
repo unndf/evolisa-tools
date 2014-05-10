@@ -1,6 +1,6 @@
 evolisa-tools
 =============
-The original C# Genetic Vectorizer can be used to make lots of cool vector graphics, but it misses some features to really help that move along.
+The original C# Genetic Vectorizer can be used to make lots of cool vector graphics, but it misses some features to really help that move things along.
 
 The orignal EvoLisa tool is here: http://rogeralsing.com/2008/12/11/genetic-programming-mona-lisa-source-code-and-binaries/
 
